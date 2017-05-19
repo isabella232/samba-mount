@@ -1,0 +1,7 @@
+.DS_store
+*.py[co]
+
+#Ignore all folders
+**/
+# Except fabfile
+!fabfile/
